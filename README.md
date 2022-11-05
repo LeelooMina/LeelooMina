@@ -2,7 +2,8 @@
 
 I like to help ideas come to life. 
 
-- Currently attending CodeFi CodeLabs' Front End Development course. 
+- :books: Currently attending CodeFi CodeLabs' Front End Development course.
+- :pencil2: Constantly looking for my next big project. 
 
 
 <!--
