@@ -1,4 +1,9 @@
-### Hi there 👋
+### :star: Hello there! I'm Crystal. :star:
+
+I like to help ideas come to life. 
+
+- Currently attending CodeFi CodeLabs' Front End Development course. 
+
 
 <!--
 **LeelooMina/LeelooMina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
