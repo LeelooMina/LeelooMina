@@ -7,11 +7,11 @@ I like to help ideas come to life.
 
 Some of my favorite recent projects:
  
-:small_red_triangle: [Ruby Kingdom]() - A text based adventure game // Ruby
+:small_red_triangle: [Ruby Kingdom](https://replit.com/@CrystalCampbell/Ruby-Text-Game?v=1) - A text based adventure game // Ruby
 
-:tropical_drink: [Social Cocktails](https://cocktails-c5651.web.app/) - A social media app for cocktail lovers // Angular, Typescript, Firebase
+:tropical_drink: [Social Cocktails](https://cocktails-c5651.web.app/) - A social media app for cocktail lovers // Group Project // Angular, Typescript, Firebase
 
-:white_check_mark: [ProjectBox]() - A collaborative project managment system // Angular, Typescript, Firebase
+:white_check_mark: [ProjectBox](https://issue-tracker-3d4b0.web.app/home) - A collaborative project managment system // Angular, Typescript, Firebase
 
 
 
