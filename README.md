@@ -7,7 +7,7 @@ I like to help ideas come to life.
 
 Some recent projects:
  
-:small_red_triangle: [Ruby Kingdom](https://replit.com/@CrystalCampbell/Ruby-Text-Game?v=1) - A text based adventure game // Ruby
+:video_game: [Ruby Kingdom](https://replit.com/@CrystalCampbell/Ruby-Text-Game?v=1) - A text based adventure game // Ruby
 
 :tropical_drink: [Social Cocktails](https://cocktails-c5651.web.app/) - A social media app for cocktail lovers // Group Project // Angular, Typescript, Firebase
 
