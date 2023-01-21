@@ -5,7 +5,7 @@ I like to help ideas come to life.
 - :books: Currently attending CodeFi CodeLabs' Back End Development course.
 - :pencil2: Always looking for the next big project. 
 
-Some of my favorite recent projects:
+Some recent projects:
  
 :small_red_triangle: [Ruby Kingdom](https://replit.com/@CrystalCampbell/Ruby-Text-Game?v=1) - A text based adventure game // Ruby
 
