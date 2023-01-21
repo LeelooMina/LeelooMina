@@ -5,6 +5,16 @@ I like to help ideas come to life.
 - :books: Currently attending CodeFi CodeLabs' Back End Development course.
 - :pencil2: Always looking for the next big project. 
 
+Some of my favorite recent projects:
+ 
+:small_red_triangle: [Ruby Kingdom]() - A text based adventure game // Ruby
+
+:tropical_drink: [Social Cocktails](https://cocktails-c5651.web.app/) - A social media app for cocktail lovers // Angular, Typescript, Firebase
+
+:white_check_mark: [ProjectBox]() - A collaborative project managment system // Angular, Typescript, Firebase
+
+
+
 
 <!--
 **LeelooMina/LeelooMina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
