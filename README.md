@@ -15,7 +15,7 @@ I like to help ideas come to life.
  
 :video_game: [Ruby Kingdom](https://replit.com/@CrystalCampbell/Ruby-Text-Game?v=1) - A text based adventure game // Ruby, Pokemon API
 
-:tropical_drink: [Social Cocktails](https://cocktails-c5651.web.app/) - A social media app for cocktail lovers // Group Project // Angular, Typescript, Firebase, TheCocktailDB
+:tropical_drink: [Social Cocktails](https://cocktails-c5651.web.app/) - A social media app for cocktail lovers // Group Project // Angular, TypeScript, Firebase, TheCocktailDB
 
 :white_check_mark: [ProjectBox](https://issue-tracker-3d4b0.web.app/home) - A collaborative project managment system // Angular, Typescript, Firebase
 
