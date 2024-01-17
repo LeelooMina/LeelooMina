@@ -2,7 +2,7 @@
 
 I like to help ideas come to life. 
 
-- :books: Currently attending CodeFi's Back End Development course.
+- :books: Currently working towards my Bachelor's in Software Engineering
 - :pencil2: Always looking for the next big project. 
 
 
